@@ -56,5 +56,3 @@ sudo gitlab-runner register
 ![1757616904544](images/report/1757616904544.png)
 
 ![1757616926074](images/report/1757616926074.png)
-
-### Part 5. Этап деплоя
